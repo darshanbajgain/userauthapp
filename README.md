@@ -33,9 +33,9 @@ MySQL
 ## Setup
 ### 1. Clone the Repository
 
-```git clone https://github.com/darshanbajgain/user-auth.git```
+```git clone https://github.com/darshanbajgain/userauthapp.git```
 
-```cd user-auth```
+```cd userauthapp```
 
 ### 2. Configure the Database
 Create a MySQL database for the project. You can use the MySQL command line or a GUI tool like My.
